@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de una página web de muestra creada como parte de un curso de desarrollo web.
 
-> [!NOTE]\
+> [!WARNING]\
 > Este proyecto es una muestra y no tiene funcionalidad completa.
 
 ## Página del Sitio 🌐
@@ -29,7 +29,7 @@ Puedes explorar la página del sitio [aquí](https://ignaciogautostore.netlify.a
 2. Copia el siguiente comando y pégalo en tu terminal para clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/FrontEnd-Store.git
+   git clone https://github.com/ignacioG-dev/FrontEndStore
 
 ## Tecnologías Utilizadas 🛠️
 
